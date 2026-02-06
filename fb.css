@@ -1,0 +1,178 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 30px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+.logo-text{
+    font-size:45px;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 170px;
+}
+.login-label1{
+    color: #fff;
+    font-size: 11px;
+}
+.login-label2{
+    color: #fff;
+    font-size: 11px;
+    margin-left: 5px;
+}
+.txtboxdis{
+    margin-left: 5px;
+}
+.login-controls{
+    padding-left: 115px;
+}
+.forgotten{
+    font-size: 11px;
+    color: #ffffffcd;
+}
+.sub-btn{
+    margin-left: 5px;
+    background:#4267b2;
+    color: #fff;
+    height: 20px;
+    border-color:#4267b2;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background: blue;
+}
+.main-body{
+    margin-top: -16px;
+    width: 100%;
+    height: 620px;
+    background:linear-gradient(#d4dae873, rgb(141 129 197 / 67%)) ;
+}
+.left-section{
+    padding-left: 10px;
+    width: 50%;
+    float: left;
+
+}
+.right-section{
+    width: 49%;
+    float: left;
+}
+.para1{
+    font-size: 21px;
+    font-weight: bold;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+.image{
+    width: 581px;
+    padding-left: 142px;
+    padding-top: 12px;
+}
+.second-header{
+    padding-left: 82px;
+    font-size: 34px;
+}
+.para2{
+    padding-left: 82px;
+    font-size: 19px;
+}
+.firstnm{
+    margin-left: 82px;
+    width: 176px;
+    height: 26px;
+    border-radius: 5px;
+    font-size: 17px;
+}
+.srnm{
+    width: 176px;
+    height: 26px;
+    border-radius: 5px;
+    margin-left: 5px;
+    font-size: 17px;
+}
+.mobpass{
+    width: 366px;
+    height: 26px;
+    border-radius: 5px;
+    margin-left: 82px;
+    font-size: 17px;
+}
+.bday{
+    margin-left: 82px;
+    color: rgb(119, 108, 108);
+}
+.day{
+    margin-left: 82px;
+    border: solid 1px;
+    border-color: rgb(181, 176, 176);
+    border-radius: 5px;
+    height: 26px;
+}
+.month{
+    border: solid 1px;
+    border-color: rgb(181, 176, 176);
+    border-radius: 5px;
+    height: 26px;
+}
+.year{
+    border: solid 1px;
+    border-color: rgb(181, 176, 176);
+    border-radius: 5px;
+    height: 26px;
+}
+.radio{
+    margin-left: 82px;
+}
+.gndrfont{
+    height: 26px;
+    font-size: 17px;
+}
+.para3{
+    margin-left: 82px;
+    color: rgb(119, 108, 108);
+    font-size: 12px;
+}
+.sign-btn{
+    margin-left: 82px;
+    width: 180px;
+    height: 37px;
+    border-radius: 5px;
+    background: green;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+}
+.para4{
+    margin-left: 82px;
+    font-size: 17px;
+}
+.languages{
+    font-size: 17px;
+    padding-left: 160px;
+    color:rgba(19, 3, 3, 0.778);
+}
+.footer1{
+    padding-left: 160px;
+    rgba(19, 3, 3, 0.778);
+}
+.footer2{
+    padding-left: 160px;
+    rgba(19, 3, 3, 0.778);
+}
+.langbtn{
+    width: 25px;
+}
